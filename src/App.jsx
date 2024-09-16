@@ -1,6 +1,6 @@
 import React from 'react'
 import LandingPage from './pages/LandingPage.jsx'
-
+import "./addRequire.js";
 function App() {
 
   return (
